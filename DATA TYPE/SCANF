@@ -1,0 +1,7 @@
+ CHAR		%c
+ int		%d
+ float		%f
+ double		%lf
+ long int	%ld
+ string		%s
+ unsigned int	%u
