@@ -2,7 +2,8 @@
 #include<conio.h>
 void main()
 {
-    printf("Hello, World");
-    printf("Hello, World");
+    int i;
+    for(i=1;i<=5;i++)
+        printf("Hello\n");
     getch();
 }
